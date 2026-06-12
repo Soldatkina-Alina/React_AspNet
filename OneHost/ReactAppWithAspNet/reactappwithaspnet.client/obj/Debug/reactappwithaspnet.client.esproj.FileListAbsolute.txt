@@ -1,0 +1,1 @@
+C:\Users\alink\source\repos\React_AspNet\OneHost\ReactAppWithAspNet\reactappwithaspnet.client\obj\Debug\reactappwithaspnet.client.esproj.CoreCompileInputs.cache
